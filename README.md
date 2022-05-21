@@ -20,6 +20,6 @@
   ##
  
 <div> 
-  ![snake gif](https://github.com/rogertecnic/rogertecnic/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://raw.githubusercontent.com/rogertecnic/rogertecnic/6fa6ab1033f368443d855aa8829f641ec8fe8fcc/github-contribution-grid-snake.svg)
  
 </div>
